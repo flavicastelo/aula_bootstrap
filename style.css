@@ -1,0 +1,60 @@
+body{
+    font-family: palatino;
+}
+
+.navbar {
+    background-color: #9FB089;
+}
+
+.sobre{
+    background-color: #FFFFFF;
+    color: #9FB089;         
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.img{
+    
+    border-radius: 50%;
+    background-color:  #9FB089;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.text_content{
+    text-align: justify;
+}
+
+.title{
+    
+    font-size: 50px;
+}
+
+.redessociais{
+    background-color: #69745A;
+    color: #DCEDB2; 
+}
+.icone{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 100px;
+}
+
+.aprendendo{    
+    background-color: #DCEDB2;
+    color: #69745A;
+}
+.creditos{
+    font-size: 12px;
+    background-color: #313828;
+    color: whitesmoke;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.contact_list{
+    list-style-type: none;
+}
